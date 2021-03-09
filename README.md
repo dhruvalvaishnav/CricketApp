@@ -1,7 +1,7 @@
 # CricketApp
 Cricketer Details Web App Using MERN stack & Redux.
 
-![screenshot](https://https://github.com/dhruvalvaishnav/CricketApp/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
+![screenshot](https://github.com/dhruvalvaishnav/CricketApp/blob/main/uploads/FullSS.jpeg)
 
 ## Features
 
