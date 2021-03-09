@@ -1,6 +1,5 @@
 const cricketers = [
   {
-    _id: 1,
     name: "Virat Kohli",
     image: "/images/virat.jpg",
     Born: "November 5, 1988, Delhi",
@@ -12,9 +11,8 @@ const cricketers = [
     ODI_100_50: "43/60",
   },
   {
-    _id: 2,
-    name: "Hardik Himanshu Pandya",
-    image: "/images/hardik.png",
+    name: "Hardik Pandya",
+    image: "/images/hardik.jpg",
     Born: "October 11, 1993, Choryasi, Gujarat",
     Age: "27 years 148 days",
     Team: "India",
@@ -24,8 +22,7 @@ const cricketers = [
     ODI_100_50: "0/6",
   },
   {
-    _id: 3,
-    name: "Ravindrasinh Anirudhsinh Jadeja",
+    name: "Ravindrasinh Jadeja",
     image: "/images/jadeja.jpg",
     Born: "December 6, 1988, Navagam-Khed, Saurashtra",
     Age: "32 years 92 days",
@@ -36,7 +33,6 @@ const cricketers = [
     ODI_100_50: "0/13",
   },
   {
-    _id: 4,
     name: "Mahendra Singh Dhoni",
     image: "/images/dhoni.jpg",
     Born: "July 7, 1981, Ranchi, Bihar (now Jharkhand)",
@@ -48,9 +44,8 @@ const cricketers = [
     ODI_100_50: "10/73",
   },
   {
-    _id: 5,
     name: "Kannaur Lokesh Rahul",
-    image: "/images/kl.png",
+    image: "/images/kl.jpg",
     Born: "April 18, 1992, Bangalore, Karnataka",
     Age: "28 years 324 days",
     Team: "India",
@@ -60,6 +55,5 @@ const cricketers = [
     ODI_100_50: "4/8",
   },
 ];
-// export default cricketers;
 
-module.exports = cricketers;
+export default cricketers;
