@@ -67,7 +67,7 @@ There is a Firebase postbuild script, so if you push to Firebase, no need to bui
 
 ### Seed Database
 
-You can use the following commands to seed the database with some sample users and products as well as destroy all data
+You can use the following commands to seed the database with some sample users and crickters as well as destroy all data
 
 ```
 # Import data
